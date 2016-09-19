@@ -1,2 +1,3 @@
 # hello-world
-ada project
+ada project 
+I am a fast lerner!
